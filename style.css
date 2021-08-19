@@ -1,3 +1,5 @@
+/*@media(max-width:1921px)*/
+
 @media(min-width:1759px){
     .center_row{
         width: 326px;
@@ -10,12 +12,12 @@
     }
 }
 
-
 body{
     margin: 0;
     padding: 0;
     background: rgba(2, 10, 24, 1);
     max-height: 3850px;
+    /*transform: scale(80%);*/
 }
 
 
