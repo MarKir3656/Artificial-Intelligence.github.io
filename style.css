@@ -347,7 +347,15 @@ width: auto;
 padding-bottom: 20px;
 }
 
+.main_nav:hover{
+    transform: scale(1.2, 1.2);
+}
+
 .pad_fift{
     padding-top: 50px;
     width: 408px;
 }
+
+button:hover{
+    transform: scale(1.1, 1.1);
+  }
